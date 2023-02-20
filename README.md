@@ -2,10 +2,7 @@
  smart pill box
 
 project completed
-but README will be accomplished
 
-
-use
 
 #sim
 
