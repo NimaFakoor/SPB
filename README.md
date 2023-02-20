@@ -7,24 +7,42 @@ project completed
 #sim
 
 https://www.labcenter.com/
+
 or
- KTechLab 
- SimulIDE 
- BrainBox 
- PICsimLab or PICsim 
- PIC-Simulator 
- simavr 
- SimulAVR and simulavr-disp 
- SPICE (Simulation Program with Integrated Circuit Emphasis) 
- QUCS (Quite Universal Circuit Simulator), Qucs-S, Qucsstudio, Qucsator 
- Ngspice, Spice3f5, Cider1b1, and Xspice 
- Xyce 
- Circuit Simulator or CircuitJS1 
- KiCad 
- PCB Designer 
- gEDA 
- Visolate 
- Fritzing 
+
+KTechLab 
+
+SimulIDE 
+
+BrainBox 
+
+PICsimLab or PICsim 
+
+PIC-Simulator 
+
+simavr 
+
+SimulAVR and simulavr-disp 
+
+SPICE (Simulation Program with Integrated Circuit Emphasis) 
+
+QUCS (Quite Universal Circuit Simulator), Qucs-S, Qucsstudio, Qucsator 
+
+Ngspice, Spice3f5, Cider1b1, and Xspice 
+
+Xyce 
+
+Circuit Simulator or CircuitJS1 
+
+KiCad 
+
+PCB Designer 
+
+gEDA 
+
+Visolate 
+
+Fritzing 
 
 and
 
